@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2021 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="for_you">Para Você</string>
+    <string name="done">Concluir</string>
+    <string name="for_you_loading">Carregando para você…</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="onboarding_guidance_title">No que você está interessado?</string>
+    <string name="onboarding_guidance_subtitle">Atualizações dos tópicos que você segue aparecerão aqui. Siga algum tópico para prosseguir.</string>
+    <string name="top_app_bar_title">Agora no android</string>
+    <string name="for_you_top_app_bar_action_search">Pesquise</string>
+
+    <!-- Authors-->
+    <string name="following">Você está seguindo</string>
+    <string name="not_following">Você não está seguindo</string>
+    <string name="follow">Seguir</string>
+    <string name="unfollow">Deixar de seguir</string>
+
+</resources>

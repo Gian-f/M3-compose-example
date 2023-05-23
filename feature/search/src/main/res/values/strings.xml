@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2023 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="search">Procure</string>
+    <string name="clear_search_text_content_desc">Limpar campo de busca</string>
+    <string name="search_result_not_found">Desculpe, não tem nenhum conteúdo encontrado para você buscar \"%1$s\"</string>
+    <string name="search_not_ready">Desculpe,estamos processsando a lista de atualizações. Tente novamente mais tarde</string>
+    <string name="try_another_search">Tente outra pesquisa ou explore </string>
+    <string name="interests">Interesses</string>
+    <string name="to_browse_topics"> para pesquisa de tópicos </string>
+    <string name="topics">Tópicos</string>
+    <string name="updates">Atualizações</string>
+    <string name="recent_searches">Pesquisas recentes</string>
+    <string name="clear_recent_searches_content_desc">Limpar Pesquisas</string>
+</resources>

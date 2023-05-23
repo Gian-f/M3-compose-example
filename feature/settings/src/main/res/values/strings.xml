@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2022 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="top_app_bar_action_icon_description">Configurações</string>
+    <string name="top_app_bar_navigation_icon_description">Procure</string>
+    <string name="settings_title">Configurações</string>
+    <string name="loading">Carregando...</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="licenses">Licenças</string>
+    <string name="brand_guidelines">Diretrizes da marca</string>
+    <string name="feedback">Feedback</string>
+    <string name="theme">Tema</string>
+    <string name="brand_default">Padrão</string>
+    <string name="brand_android">Android</string>
+    <string name="dark_mode_preference">Preferências de tema</string>
+    <string name="dark_mode_config_system_default">Padrão do Sistema</string>
+    <string name="dark_mode_config_light">Light</string>
+    <string name="dark_mode_config_dark">Dark</string>
+    <string name="dynamic_color_preference">Use cores dinâmicas</string>
+    <string name="dynamic_color_yes">Sim</string>
+    <string name="dynamic_color_no">Não</string>
+    <string name="dismiss_dialog_button_text">OK</string>
+</resources>
